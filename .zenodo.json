@@ -1,0 +1,8 @@
+{
+  "title": "EmuSCA: Emulated Side-Channel Evaluation of Masked and Shuffled Kyber on Arm Cortex-M (code and data)",
+  "upload_type": "software",
+  "creators": [{"name": "Riad, Khaled", "affiliation": "King Faisal University, Saudi Arabia"}],
+  "license": "MIT",
+  "keywords": ["side-channel analysis", "ML-KEM", "Kyber", "masking", "shuffling", "Arm Cortex-M", "leakage assessment"],
+  "description": "Emulation code, raw result data, and chart generation scripts supporting the article on EmuSCA. Emulated results only; no hardware measurements."
+}
