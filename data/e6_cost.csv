@@ -1,0 +1,10 @@
+config,w,cycles,overhead
+unprotected,1,20352,1.0
+shuffled,2,32640,1.604
+shuffled,4,37248,1.83
+shuffled,8,39552,1.943
+shuffled,16,40704,2.0
+masked,1,50176,2.465
+masked+shuffled,2,68608,3.371
+masked+shuffled,4,73216,3.597
+masked+shuffled,8,75520,3.711

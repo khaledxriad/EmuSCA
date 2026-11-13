@@ -1,0 +1,5 @@
+unprotected maxT final 326.8006511307865 time 8
+shuffled8 maxT final 127.6605402498305 time 8
+masked maxT final 4.209912723286187 time 14
+masked_trans maxT final 74.16800226027615 time 17
+masked_trans_shuf8 maxT final 74.10915100953305 time 19
